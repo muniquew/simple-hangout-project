@@ -7,7 +7,7 @@
   <Content type="html">
     <![CDATA[
       <script src="//talkgadget.google.com/hangouts/api/hangout.js?v=1.0"></script>
-      <link rel="stylesheet" href="<YOUR_PATH>/css/CSS-simple-demo.css" />
+      <link rel="stylesheet" href="https://raw.github.com/mwassem/simple-hangout-project/master/scripts/JS-simple-demo.js" />
 
       <h1>Simple Demo Project</h1>
       <div id="container"></div>
