@@ -1,3 +1,6 @@
+Original app by Gerwin Sturm, I'm just messing around the code.
+
+
 Description
 
 Just a simple base hangout app project that shows two of the main functionalities:
@@ -5,25 +8,8 @@ How to access participants and how to use the shared data.
 To learn more about the Hangouts API please visit https://developers.google.com/+/hangouts/
 
 
-Installation
-
-  * Edit demo.xml and change <YOUR PATH> to where you plan to upload the files.
-
-  * Upload all the files to <YOUR PATH>
-
-  * Please note that the files need to be publicly accessible.
-
-  * Go to https://code.google.com/apis/console/ and create a new project.
-
-  * Activate the "Google+ Hangouts API" in Services.
-
-  * Go to "Hangouts" and put the full URL to <YOUR PATH>demo.xml in "Gadget URL"
-
-  * Save and you are ready to "Enter a hangout!" :)
-
-
 ----
-This script uses the Google+™ Hangouts API. (https://developers.google.com/+/hangouts/)
+This script uses the Google+ï¿½ Hangouts API. (https://developers.google.com/+/hangouts/)
 
 Google+ is a trademark of Google Inc. Use of this trademark is subject to Google Permissions. (http://www.google.com/permissions/index.html)
 
