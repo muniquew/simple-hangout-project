@@ -13,7 +13,7 @@
 
       gapi.hangout.onParticipantsChanged.add(this.onParticipantsChanged.bind(this));
 
-      document.getElementById("clickme").onclick = (this.buttonClick.bind(this));
+      //document.getElementById("clickme").onclick = (this.buttonClick.bind(this));
 
       gapi.hangout.data.onStateChanged.add(this.displayCount.bind(this));
 
