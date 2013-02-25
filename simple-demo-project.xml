@@ -11,7 +11,7 @@
       
       <h1>Simple Demo Project</h1>
       <div id="container"></div>
-      <button id="clickme">Clique Aqui</button> <span id="count">0</span>
+      
 
       <script src="https://raw.github.com/mwassem/simple-hangout-project/master/scripts/JS-simple-demo.js"></script>
     ]]>
